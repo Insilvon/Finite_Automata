@@ -1,0 +1,4 @@
+The string aaaaab has been accepted. 
+The string aaaaaaaa has been rejected. 
+The string aaaaaaab has been accepted. 
+The string bbbbbbbbbb has been rejected. 
